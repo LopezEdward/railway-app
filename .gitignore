@@ -18,3 +18,8 @@ yarn-error.log
 # OS
 .DS_Store
 Thumbs.db 
+
+# Custom
+requirements.txt
+ventas.sql
+.github
